@@ -1,0 +1,15 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "Apis rest del master de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esther cid",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.21.2"
+  }
+}
